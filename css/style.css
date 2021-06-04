@@ -12,10 +12,7 @@ p{
 i{
     color: #f6cd;
 }
-/* nav {
-   
-    overflow: hidden;
-}
+
 
 nav a {
     text-decoration: #000;
@@ -186,7 +183,7 @@ nav a {
     color: royalblue;
 }
 .hub{
-    margin-top:2%;
+    margin-top:20%;
     padding: 10px;
     margin-bottom: 10px;
     text-decoration: black;
