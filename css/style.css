@@ -68,9 +68,9 @@ nav a {
    background-image: linear-gradient(rgba(231, 242, 243, 0),rgba(239, 247, 246, 0)),url("../images/Header.jpg");
    background-repeat:no-repeat ;
    background-size: 100% 100%;
-    margin-top:10%;
-    padding: 20px;
-    margin-bottom: 10px;
+    margin:55px 10px;
+    padding:20px;
+    /* margin-bottom: 10px; */
     text-decoration: black;
     text-transform: uppercase;
   
