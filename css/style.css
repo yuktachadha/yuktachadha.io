@@ -202,7 +202,7 @@ nav a {
     left: 0;
     right: 0;
     z-index:  -1;
-    background:linear-gradient(160deg, #75e0f533 55%, rgba(255, 255, 255, 0.966) 0%) ;
+    background:linear-gradient(160deg, #75e0f54f 55%, rgba(255, 255, 255, 0.966) 0%) ;
 }
 .pricing-box{
     padding: 25px;
